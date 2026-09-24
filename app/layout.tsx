@@ -66,7 +66,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           `}
         </Script>
         <Analytics />
-        <SpeedInsights />
+        <SpeedInsights / >
       </body>
     </html>
   );
